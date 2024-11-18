@@ -50,5 +50,5 @@ go install github.com/thatbeautifuldream/todo-finder@latest
 Then you can use the tool like this:
 
 ```sh
-./todo-finder -dir ./path/to/your/project
+./todo-finder -dir=./path/to/your/project
 ```
