@@ -52,3 +52,15 @@ Then you can use the tool like this:
 ```sh
 todo-finder -dir=./path/to/your/project
 ```
+
+## Run the tool
+
+```sh
+go run .
+```
+
+- Or with a specific directory:
+
+```sh
+go run . -dir=./path/to/your/project
+```
